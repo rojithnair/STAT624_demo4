@@ -8,4 +8,3 @@ Yuhao
 "hello my name is Radhika"
 Name = 'Youssef Hebaish'
 name = AnirbanChakraborty
-Stella Bazaldua
