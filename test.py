@@ -1,3 +1,14 @@
 #Justin Cho
-x=10
-variable = TRUE
+Mithun Krishnan Ramesh
+Vasantha Kumar V
+"Gautham"
+y="Naveen"
+#Ethan McDonald
+Sarah Vasicek
+MYRON LARRY DSOUZA
+Sai Vamsi Appari
+Yuhao
+#Ben
+"hello my name is Radhika"
+Name = 'Youssef Hebaish'
+name = AnirbanChakraborty
