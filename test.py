@@ -1,3 +1,4 @@
+name = "Aarushi Agarwal"
 Geo Lee
 #Justin Cho
 Mithun Krishnan Ramesh
